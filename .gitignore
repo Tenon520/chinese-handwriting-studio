@@ -1,0 +1,24 @@
+# Local environments and Python caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Personal inputs, generated output and local verification
+private/
+outputs/
+output/
+.verification/
+releases/
+*.sqlite
+*.sqlite3
+*.db
+.env
+.env.*
+
+# Editor and OS files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db

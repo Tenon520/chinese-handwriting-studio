@@ -1,0 +1,5 @@
+interface:
+  display_name: "中文手写工作室"
+  short_description: "生成自然中文手写整页，支持多字形样本、参考字迹参数、自定义纸张与拍照效果"
+  brand_color: "#2F4858"
+  default_prompt: "使用 $chinese-handwriting-studio 将提供的文字生成自然中文手写页面，并按提供的样张和空白纸张调整效果。"
